@@ -1,2 +1,2 @@
 # KaggleSolution
-Kaggle solution for "Hotel booking demand"
+We need to predict if person cancel the hotel reservation or not
